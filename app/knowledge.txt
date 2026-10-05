@@ -1,0 +1,5 @@
+Docker is a platform designed to help developers build, share, and run modern applications. It handles the tedious setup, so you can focus on the code.
+
+Qdrant is a vector similarity search engine and vector database. It provides a production-ready service with a convenient API to store, search, and manage points (vectors) with an additional payload.
+
+Ollama allows you to get up and running with large language models locally. It supports models like Llama 3, Mistral, and many others without needing complex cloud setups.
